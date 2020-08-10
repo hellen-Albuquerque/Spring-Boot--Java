@@ -1,6 +1,6 @@
 package com.farmacia10.farmacia.model;
 
-//Entregar resposta quando usuário se logar
+
 public class UserLogin {
 	
 	private String nome;
